@@ -2,7 +2,7 @@
 name: harmonyos-agc-listing
 description: >-
   HarmonyOS NEXT 应用/游戏上架华为 AppGallery Connect (AGC) 的可复用实战流程：AGC 新版四分支结构、单机APP 软著/备案豁免（重要）、图标1024规范、三设备截图规范(手机1080×1920/平板1600×2560/PC1920×1080)、隐私政策结构化填写、自动签名+命令行 hvigorw 构建签名、Playwright 浏览器自动化上传/传截图/提交审核、常见驳回排查闭环、游戏专项(IARC/版号/激励死局)。当用户要发布鸿蒙应用、处理AGC审核驳回、配置DevEco签名、准备上架素材时复用本技能。
-repo: https://github.com/yaohuancen/agent-skills-collection
+repo: https://github.com/yao510/agent-skills-collection
 ---
 
 # 华为上架技能（HarmonyOS → AppGallery Connect 实战）

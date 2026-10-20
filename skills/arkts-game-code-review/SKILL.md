@@ -5,7 +5,7 @@ description: Review HarmonyOS (HarmonyOS NEXT) native ArkTS game code for
   state-separated simulation layer + Node/esbuild self-test gate so game logic
   can be verified without a device/SDK. Use when reviewing or auditing any
   ArkTS/ArkUI game or canvas-heavy HarmonyOS app.
-repo: https://github.com/yaohuancen/agent-skills-collection
+repo: https://github.com/yao510/agent-skills-collection
 ---
 
 # ArkTS Game Code Review (鸿蒙原生游戏代码评审)

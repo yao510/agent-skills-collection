@@ -1,7 +1,7 @@
 ---
 name: codebase-audit-and-remediate
 description: 对大型 Python 代码库做"体检 → 修复 → 验证"的完整工作流。适用于：找出死代码/重复模块、修复批量反模式(静默吞错)、验证接线完整性、清理无用文件、定位"开发了但没运行"的代码。触发词：代码库体检、死代码清理、接线检查、静默失败治理、审计重构、codebase audit、dead code cleanup。
-repo: https://github.com/yaohuancen/agent-skills-collection
+repo: https://github.com/yao510/agent-skills-collection
 ---
 
 # 代码库体检与修复工作流

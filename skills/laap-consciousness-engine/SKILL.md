@@ -3,7 +3,7 @@ name: laap-consciousness-engine
 description: 将前沿脑神经学/心理学认知论文（如 LAAP 的 PSI-RSI
   数字生命框架）工程化为可运行、可干预、可进化的意识引擎(Python)。当用户要求"工程化意识系统 / 认知架构论文 / 实现 consciousness
   engine / 让设计师接入"时使用。
-repo: https://github.com/yaohuancen/agent-skills-collection
+repo: https://github.com/yao510/agent-skills-collection
 ---
 
 # LAAP 意识引擎工程化工作流

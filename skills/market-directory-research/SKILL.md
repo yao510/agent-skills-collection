@@ -2,7 +2,7 @@
 name: market-directory-research
 description: 调研某个市场/商圈/产业园的公开商户与企业信息，并交付多Sheet Excel分类总表 +
   SVG/HTML分布图与规划/政策可视化。适用于"帮我整理XX市场所有商户""XX商圈入驻企业""供应商/厂家名录"类需求。Use when: 需要产出某市场/商圈/产业园的商户或企业名录（Excel 分类总表 + 分布图）时。
-repo: https://github.com/yaohuancen/agent-skills-collection
+repo: https://github.com/yao510/agent-skills-collection
 ---
 
 # 公开市场商户/企业名录调研与交付

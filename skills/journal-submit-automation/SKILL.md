@@ -1,7 +1,7 @@
 ---
 name: journal-submit-automation
 description: 用本地 Playwright 浏览器**实际驱动**学术投稿系统，完成「注册账号 → 登录 → 上传稿件/封面信/补充材料 → 填 Details/Authors/Declarations → 提交 → 抓稿号 → 读确认邮件 → 回写台账」的端到端自动化。适用于用户说"帮我投这家期刊""把稿子提交到 X""注册投稿账号""提交后拿稿号""盯一下确认邮件"。覆盖 Springer Nature Snapp（Acta Biotheoretica/Biosemiotics 等）、并含 Elsevier 新系统/Editorial Manager/ScholarOne 的接入口诀。与 journal-submission-kit（投稿知识：选刊/封面信/终检清单）配套使用——本 skill 负责"动手投"，那个负责"投前准备与判据"。
-repo: https://github.com/yaohuancen/agent-skills-collection
+repo: https://github.com/yao510/agent-skills-collection
 ---
 
 # 学术投稿浏览器自动化（端到端执行层）

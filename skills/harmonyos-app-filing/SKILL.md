@@ -1,7 +1,7 @@
 ---
 name: harmonyos-app-filing
 description: HarmonyOS/鸿蒙APP备案与上架全流程指南。当用户需要为鸿蒙应用做ICP备案、在华为应用市场上架、填写备案表单、购买ECS获取授权码、生成CSR签名证书、处理游戏版号(ISBN)问题、或遇到备案/上架相关问题时使用。涵盖备案前决策、ECS购买、表单填写、签名证书、游戏版号申请、踩坑清单等完整流程。
-repo: https://github.com/yaohuancen/agent-skills-collection
+repo: https://github.com/yao510/agent-skills-collection
 ---
 
 # HarmonyOS APP 备案与上架全流程

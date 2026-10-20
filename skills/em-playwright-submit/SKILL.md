@@ -1,7 +1,7 @@
 ---
 name: em-playwright-submit
 description: 用 playwright 脚本化自动化投 Editorial Manager (EM) 系期刊（Springer/Elsevier 等，如 Biological Theory=bthe、M&M=mind、BioSystems=biosys、Synthese=synt）。覆盖登录、上传、文件类型、问卷、CKEditor 填字段、Funding 必填、Build PDF、Approve 取稿号全流程与全部踩坑点。当用户说"帮我投 XX 刊""接手没投完的稿子""EM 系统卡住了""Build PDF 报 missing"时使用。注意：Taylor & Francis 期刊已迁至新门户（rp.tandfonline.com），投 T&F 刊请改用 tandf-portal-submit 技能。
-repo: https://github.com/yaohuancen/agent-skills-collection
+repo: https://github.com/yao510/agent-skills-collection
 ---
 
 # Editorial Manager 投稿自动化（playwright）

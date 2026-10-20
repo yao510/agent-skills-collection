@@ -1,7 +1,7 @@
 ---
 name: ieee-rex-submit
 description: 用 playwright + 常驻 Chrome(CDP) 自动化投 IEEE 系期刊的**投稿门户 Research Exchange (REX)**（IEEE Author Portal，ieee.submission.researchexchange.com）。适用于 IEEE Transactions on Cognitive and Developmental Systems (TCDS) 等 IEEE 期刊。覆盖：过 Cloudflare 的常驻浏览器会话、免密复用登录、10 步投稿流程（Article Type→Upload→Title→Abstract→Authors→Affiliations→Author Details→Match Organizations→Additional Information→Final Review→Submit）、react-select 必填下拉框、AutoSave 幂等填写、提交与取收据。当用户说"投 IEEE 刊""REX 卡住""Confirm 过不去""Research Exchange 被 Cloudflare 拦""Animal Subjects 填不了"时使用。Elsevier NSE 用 elsevier-nse-submit；EM 经典系统用 em-playwright-submit；T&F 用 tandf-portal-submit。
-repo: https://github.com/yaohuancen/agent-skills-collection
+repo: https://github.com/yao510/agent-skills-collection
 ---
 
 # IEEE Research Exchange (REX) 投稿自动化（playwright + 常驻 Chrome/CDP）

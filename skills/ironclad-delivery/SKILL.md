@@ -2,7 +2,7 @@
 name: ironclad-delivery
 description: 铁血交付协议（合并 收据门 receipt-gate-delivery + PUA 防偷懒行为协议）。所有任务默认启用，尤其修 bug、改代码、跑验证、"修完/完成/好了"类声明。核心：没有收据的完成不是 done；失败必须升级+换方法+主动 ownership；严禁报喜不报忧、严禁甩锅、严禁原地打转。来源：claude-code-recap 收据门 + GitHub tanweai/pua（已做安全审计：无外联上报、无破坏性操作、不读凭证、不开启遥测）。
 allowed-tools: Read, Write, Edit, Bash, Grep, Glob, WebSearch, WebFetch
-repo: https://github.com/yaohuancen/agent-skills-collection
+repo: https://github.com/yao510/agent-skills-collection
 ---
 
 # 铁血交付协议（Ironclad Delivery Protocol）
