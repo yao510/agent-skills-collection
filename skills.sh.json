@@ -1,0 +1,46 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "学术投稿自动化",
+      "description": "学术投稿自动化相关技能。",
+      "skills": [
+        "journal-submission-kit",
+        "journal-submit-automation",
+        "ieee-rex-submit",
+        "elsevier-nse-submit",
+        "tandf-portal-submit"
+      ]
+    },
+    {
+      "title": "鸿蒙开发",
+      "description": "鸿蒙开发相关技能。",
+      "skills": [
+        "arkts-game-code-review",
+        "cangjie-distill",
+        "harmonyos-app-filing",
+        "harmonyos-agc-listing"
+      ]
+    },
+    {
+      "title": "视频处理",
+      "description": "视频处理相关技能。",
+      "skills": [
+        "cn-video-gen",
+        "yt-video-archiver"
+      ]
+    },
+    {
+      "title": "代码与Agent方法论",
+      "description": "代码与Agent方法论相关技能。",
+      "skills": [
+        "codebase-audit-and-remediate",
+        "ironclad-delivery",
+        "market-directory-research",
+        "laap-consciousness-engine",
+        "em-playwright-submit"
+      ]
+    }
+  ]
+}
