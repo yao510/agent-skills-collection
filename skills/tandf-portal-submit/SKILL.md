@@ -1,7 +1,7 @@
 ---
 name: tandf-portal-submit
 description: 用 playwright 自动化投 Taylor & Francis 新投稿门户（rp.tandfonline.com，Research Portal）系期刊，如 International Journal of General Systems (IJGS/journalCode=GGEN) 等。覆盖 T&F 统一账号注册（含 Cloudflare + hCaptcha 人工配合）、邮箱验证、登录、建稿、四类文件上传、稿件页/关键词页/作者页逐页填写、预览提交的全流程与全部踩坑点。当用户说"投 T&F 的刊""rp.tandfonline.com 投稿""ScholarOne 找不到投稿入口""IJGS/GGEN 投稿"时使用。若目标是 Editorial Manager 系（bthe/synt/mind/biosys）请改用 em-playwright-submit。
-repo: https://github.com/REPO_OWNER_PLACEHOLDER/agent-skills-collection
+repo: https://github.com/yaohuancen/agent-skills-collection
 ---
 
 # Taylor & Francis 新门户（Research Portal）投稿自动化

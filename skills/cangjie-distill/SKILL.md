@@ -8,7 +8,7 @@ description: Distill a book, long-video transcript, podcast, course, or
   agent can invoke in real-world situations. NOT for simple summarization, book
   reviews, or role-playing as the author (that is nuwa-skill's job).
 allowed-tools: Read,Write,Bash,Glob,Grep,Agent
-repo: https://github.com/REPO_OWNER_PLACEHOLDER/agent-skills-collection
+repo: https://github.com/yaohuancen/agent-skills-collection
 ---
 
 # cangjie-skill — 把一本书蒸馏成一组可执行 skills 的元 skill

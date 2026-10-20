@@ -1,7 +1,7 @@
 ---
 name: journal-submission-kit
 description: 为学术论文生成"投稿三件套"——①按目标期刊官方要求写的封面信（cover letter）②中文界面的逐步投稿操作单（逐格填什么）③可直接上传的 PDF。适用于用户说"投这家期刊""帮我投稿""封面信怎么写""投稿步骤给我"等场景。也覆盖 Zenodo/arXiv 预印本上传操作单、Elsevier 新投稿系统（submit.elsevier.com）八步逐屏实操与费用陷阱。
-repo: https://github.com/REPO_OWNER_PLACEHOLDER/agent-skills-collection
+repo: https://github.com/yaohuancen/agent-skills-collection
 ---
 
 # 论文投稿三件套生成

@@ -1,7 +1,7 @@
 ---
 name: elsevier-nse-submit
 description: 用 playwright 自动化投 Elsevier 系期刊的**新投稿平台 NSE**（New Submission Experience，submit.elsevier.com/<JOURNAL>/<UUID>/steps/...）。适用于 Cognitive Systems Research=cogsys、BioSystems=biosys 等 Elsevier 刊。覆盖 SSO 免密登录、双盲分传（匿名稿＋标题页）、文件上传、元数据（摘要 250 词硬限）、作者与 CRediT 角色、基金、订阅制 0 费出版选项、数据可用性必填、声明勾选、提交与取收据。当用户说"投 Elsevier 刊""NSE 卡住了""Save and continue 不推进""双盲匿名稿怎么传"时使用。注意 EM 经典系统（editorialmanager.com）投稿请改用 em-playwright-submit 技能；T&F 刊用 tandf-portal-submit。
-repo: https://github.com/REPO_OWNER_PLACEHOLDER/agent-skills-collection
+repo: https://github.com/yaohuancen/agent-skills-collection
 ---
 
 # Elsevier NSE 投稿自动化（playwright）

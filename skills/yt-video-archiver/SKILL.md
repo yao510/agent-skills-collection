@@ -9,7 +9,7 @@ description: Download videos and extract original post captions, audio
   an H5 primary route and yt-dlp fallback; Bilibili, YouTube, and Xiaohongshu
   are implemented through yt-dlp; WeChat Channels is not implemented yet and
   should currently be handled via the WeChat mini program kg百宝箱.
-repo: https://github.com/REPO_OWNER_PLACEHOLDER/agent-skills-collection
+repo: https://github.com/yaohuancen/agent-skills-collection
 ---
 
 # Video Downloader
